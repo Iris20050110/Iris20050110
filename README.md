@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning Next.js, MongoDB... <br>🎯 Goals: Be a full-stack developer!<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning Next.js, MongoDB... <br>🎯 Goals: Be a full-stack developer!<br>🎲 Fun fact: I'm a Boba Lover! &#128525;</p>
 
 ###
 
