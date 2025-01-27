@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Connect with Me</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 <a href="https://www.linkedin.com/in/yushan-iris-li/" align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fcdsIUPUgmbvGaP-RC4RbHYdVtoN_fM8aya_8gOXI2BRtClESO-0_jgWTtKtIVmOQKs&usqp=CAU" alt="LinkedIn"></a>
