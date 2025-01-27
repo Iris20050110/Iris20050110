@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Iris, and I'm currently a Computer Science student from UCLA</p>
+<p align="left">My name is Iris, and I'm currently a computer science student, developer, and creator from UCLA</p>
 
 ###
 
@@ -37,3 +37,8 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with Me</h2>
+
+###
+<a href="https://www.linkedin.com/in/yushan-iris-li/" align="left">linkedIn</a>
